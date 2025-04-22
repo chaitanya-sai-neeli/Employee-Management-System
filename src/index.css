@@ -8,9 +8,6 @@ body{
   background-color: #111;
 }
 
-/* input{
-  background-color: #fff;
+#taskList::-webkit-scrollbar{
+  display: none;
 }
-input::placeholder{
-  color: grey;
-} */
