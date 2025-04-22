@@ -4,7 +4,7 @@ const TasksListCards = () => {
   return (
     <div
       id="taskList"
-      className="mt-10 h-[55%] w-full p-5 flex overflow-x-auto items-center justify-start gap-5 flex-nowrap rounded-xl"
+      className="mt-10 h-[55%] w-full flex overflow-x-auto items-center justify-start gap-5 flex-nowrap rounded-xl"
     >
       <div className="h-full w-[300px] flex-shrink-0 bg-yellow-400 rounded-xl">
         <div className="p-5 flex justify-between items-center">
